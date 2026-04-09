@@ -18,7 +18,7 @@ Application desktop développée en **Python** avec **PyQt5**.
 ## Structure du projet
 
 ```text
-password_manager_completed/
+SafePass/
 ├── app/
 │   ├── config.py
 │   ├── crypto_utils.py
